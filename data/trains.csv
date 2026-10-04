@@ -1,0 +1,13 @@
+train_id,train_name,train_type,zone,arrival_time,departure_time,priority
+T001,Express_101,Express,ZONE_A,00:30,00:40,High
+T002,Superfast_202,Superfast,ZONE_A,02:30,02:40,High
+T003,Passenger_303,Passenger,ZONE_A,06:00,06:15,Medium
+T004,Goods_401,Goods,ZONE_A,09:00,09:30,Medium
+T005,Express_102,Express,ZONE_B,01:00,01:10,High
+T006,Superfast_203,Superfast,ZONE_B,03:30,03:40,High
+T007,Passenger_304,Passenger,ZONE_B,07:00,07:15,Medium
+T008,Goods_402,Goods,ZONE_B,10:00,10:30,Medium
+T009,Express_103,Express,ZONE_C,00:45,00:55,High
+T010,Superfast_204,Superfast,ZONE_C,04:00,04:10,High
+T011,Passenger_305,Passenger,ZONE_C,08:00,08:15,Medium
+T012,Goods_403,Goods,ZONE_C,11:00,11:30,Medium

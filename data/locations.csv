@@ -1,0 +1,7 @@
+location_id,location_name,zone,section,latitude,longitude
+L001,Central Junction,ZONE_A,SECTION_1,12.9716,77.5946
+L002,East Junction,ZONE_B,SECTION_2,12.9850,77.6200
+L003,North Junction,ZONE_C,SECTION_3,13.0200,77.5900
+L004,Central Yard,ZONE_A,SECTION_1,12.9650,77.6100
+L005,East Yard,ZONE_B,SECTION_2,12.9900,77.6350
+L006,North Yard,ZONE_C,SECTION_3,13.0350,77.6050

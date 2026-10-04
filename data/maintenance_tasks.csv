@@ -1,0 +1,13 @@
+task_id,asset_id,department,maintenance_type,severity,due_date,duration_minutes,status
+M001,TRK001,Engineering,Rail Inspection,Critical,2026-10-04,120,Pending
+M002,TRK002,Engineering,Track Geometry Check,High,2026-10-05,90,Pending
+M003,TRK003,Engineering,Rail Replacement,Medium,2026-10-10,180,Pending
+M004,SIG001,S&T,Signal Inspection,Critical,2026-10-04,60,Pending
+M005,SIG002,S&T,Signal Maintenance,High,2026-10-06,90,Pending
+M006,SIG003,S&T,Signal Testing,Medium,2026-10-12,60,Pending
+M007,OHE001,TRD,OHE Inspection,Critical,2026-10-05,90,Pending
+M008,OHE002,TRD,OHE Maintenance,High,2026-10-07,120,Pending
+M009,OHE003,TRD,OHE Inspection,Medium,2026-10-11,90,Pending
+M010,TEL001,S&T,Telecom Inspection,Low,2026-10-15,60,Pending
+M011,TEL002,S&T,Telecom Maintenance,Medium,2026-10-13,90,Pending
+M012,TRK001,Engineering,Emergency Rail Repair,Critical,2026-10-03,150,Pending

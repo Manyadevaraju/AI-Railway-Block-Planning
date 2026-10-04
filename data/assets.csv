@@ -1,0 +1,12 @@
+asset_id,asset_type,location,criticality,status
+TRK001,Track,ZONE_A,5,Operational
+TRK002,Track,ZONE_B,4,Operational
+TRK003,Track,ZONE_C,5,Operational
+SIG001,Signal,ZONE_A,5,Operational
+SIG002,Signal,ZONE_B,4,Operational
+SIG003,Signal,ZONE_C,5,Operational
+OHE001,OHE,ZONE_A,5,Operational
+OHE002,OHE,ZONE_B,4,Operational
+OHE003,OHE,ZONE_C,5,Operational
+TEL001,Telecom,ZONE_A,3,Operational
+TEL002,Telecom,ZONE_B,3,Operational
